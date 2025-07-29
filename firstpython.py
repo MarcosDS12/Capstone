@@ -1,1 +1,1 @@
-Print ('Andabamos sin buscarnos, pero sabiendo que andabamos para encontrarnos')
+Print ('Andabamos sin buscarnos, aunque sabiendo que andabamos para encontrarnos')
