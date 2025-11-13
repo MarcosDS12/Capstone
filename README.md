@@ -1,2 +1,2 @@
 # Capstone
-Este es el comienzo de algo nuevo y distinto
+This is the beginning of something new and different
